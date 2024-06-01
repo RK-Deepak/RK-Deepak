@@ -8,7 +8,7 @@ About Me
 💻 Full Stack Explorer: I'm not afraid to get my hands dirty in the backend either! With experience in Node.js, Express.js, and MongoDB, I thrive on building robust APIs and databases that power dynamic web applications.
 
 My Journey
-🚀 From Cpagemini to Full Stack: My journey began at Cpagemini, where I dipped my toes into the world of web development. Over time, I embraced the challenge of mastering both frontend and backend technologies, transforming into the versatile developer I am today.
+🚀 From Capgemini to Web Developer: My journey began at Capgemini, where I dipped my toes into the world of web development. Over time, I embraced the challenge of mastering both frontend and backend technologies, transforming into the versatile developer I am today.
 
 💼 Entrepreneurial Leap: After almost three years of honing my skills in the tech industry, I made the bold decision to leave my job and pursue my entrepreneurial dreams. I'm now on a thrilling journey to build my own business, fueled by passion, creativity, and a hunger for success.
 
